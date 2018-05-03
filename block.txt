@@ -11,3 +11,4 @@ nytimes.com##*:style(display:none !important;opacity:0 !important;visibility:hid
 washingtonpost.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
 theatlantic.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
 vox.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+ 
