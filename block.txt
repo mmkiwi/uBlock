@@ -1,13 +1,13 @@
-twitter.com
-facebook.com
-vox.com
-news.google.com
-cyclonefanatic.com
-widerightnattylight.com
-espn.com
-arstechnica.com
-fivethirtyeight.com
-nytimes.com
-washingtonpost.com
-theatlantic.com
-vox.com
+twitter.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+facebook.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+vox.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+news.google.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+cyclonefanatic.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+widerightnattylight.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+espn.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+arstechnica.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+fivethirtyeight.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+nytimes.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+washingtonpost.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+theatlantic.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
+vox.com##*:style(display:none !important;opacity:0 !important;visibility:hidden !important;}
